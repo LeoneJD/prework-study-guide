@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - My motivation was to complete the prework for my Bootcamp successfully which will support further learning for the rest of the course and adding context to future lessons.  
 - This project has been created in order to learn basics of HTML, CSS, Git and JavaScript while recording the learning for future reference. Another motivation for creating this project is to share learning; by making this open source information will enable other learners to benefit. 
 - This project has solved a number of problems by closing the knowledge gap enabling participation from day 1 of bootcamp; creating a space for learners to store information; and creating open source information that can be shared with other learners, employers and collaborators. 
